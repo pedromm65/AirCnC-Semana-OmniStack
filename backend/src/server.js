@@ -5,7 +5,7 @@ const path = require('path')
 const routes = require('./routes')
 const app = express()
 
-mongoose.connect('mongodb+srv://bootcamp65:bootcamp123@bootcamp-qwo5q.mongodb.net/bootcamp?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://<login>:<password>@bootcamp-qwo5q.mongodb.net/bootcamp?retryWrites=true&w=majority', {
   useNewUrlParser:true,
   useUnifiedTopology:true,  
 })

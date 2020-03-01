@@ -2,6 +2,19 @@
 
               Projeto AirCnC desenvolvido durante a Omnistack da Rocketseat 🚀👩🏽‍🚀
 
+🚀 Technologies
+<ul>
+    <li><a href="https://nodejs.org" rel="nofollow">NodeJS</a></li>
+    <li><a href="https://reactjs.org/" rel="nofollow">ReactJS</a></li>
+    <li><a href="https://reactnative.dev/?source=post_page-----160c7d78af03----------------------">React Native</a></li>
+    <li><a href="https://www.styled-components.com/" rel="nofollow">styled-components</a></li>
+    <li><a href="https://reactnavigation.org/" rel="nofollow">react-navigation</a></li>
+    <li><a href="https://github.com/axios/axios">Axios</a></li>
+</ul>
+
+
+
+
 🚀 Instalação e execução
 ps: Se precisar de ajuda para fazer um clone, esse tutorial aqui vai te ajudar 💖
 <ol>
